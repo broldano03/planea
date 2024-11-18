@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <NavBar/>
+      <h1>Hola Mundo</h1>
       <Inicio/>
       <Nosotros/>
     </>
