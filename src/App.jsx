@@ -1,7 +1,6 @@
 import React from 'react'
 import './App.css'
 import NavBar from './components/navbar/Navbar'
-import './index.css'
 import IntroSection from './components/sliders/IntroSection'
 import Services from './components/Services'
 import GridCards from './components/GridCards'
